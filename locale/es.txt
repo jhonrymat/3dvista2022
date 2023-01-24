@@ -1,0 +1,41 @@
+#: locale=es
+
+## Acción
+
+### URL
+LinkBehaviour_F33C877E_E46B_3BCA_41DD_95EE519C6BF2.source = www.google.com
+
+## Media
+
+### Título
+panorama_EC0F3884_E3E8_F53F_41E6_772A8D494378.label = IMG_20230114_111110_00_110
+album_F2E1127F_E468_D5CA_41D4_649E2FCA7B16_0.label = bote
+photo_F1329137_E419_7759_41C2_5141FCFF6313.label = bote
+panorama_E86730D5_E3E9_56DE_41D0_DC76428B6EFE.label = cuarto de mantenimiento
+photo_F05BD3C3_E3FB_DB39_41E6_4EACE6423A18.label = impresora
+video_F2181D18_E3E7_2F56_41C2_2B09BF07C390.label = pexels-lachlan-ross-8775687
+video_F01559DB_E3E9_D6CA_41E1_CC6CE5D0BD41.label = production ID_5028622
+album_F2E1127F_E468_D5CA_41D4_649E2FCA7B16.label = Álbum de Fotos bote
+
+### Video
+videolevel_F1B6FC9D_E46B_6D49_41BB_A1CCA2F68677.url = media/video_F01559DB_E3E9_D6CA_41E1_CC6CE5D0BD41_es.mp4
+videolevel_F1B6FC9D_E46B_6D49_41BB_A1CCA2F68677.posterURL = media/video_F01559DB_E3E9_D6CA_41E1_CC6CE5D0BD41_poster_es.jpg
+videolevel_F18AFDDC_E46B_6ECE_41E0_B7EA3BCBEADD.url = media/video_F2181D18_E3E7_2F56_41C2_2B09BF07C390_es.mp4
+videolevel_F18AFDDC_E46B_6ECE_41E0_B7EA3BCBEADD.posterURL = media/video_F2181D18_E3E7_2F56_41C2_2B09BF07C390_poster_es.jpg
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Sin Título 3
+
+## Ventana
+
+### Cuerpo
+htmlText_F03D2C66_E41F_2DFA_41E8_9478F84BAE08.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_F17CF29D_E3F9_3549_41E9_3E6B1AF3436D.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;">Máquina que se conecta a una computadora electrónica y que sirve para imprimir la información seleccionada contenida en ella.</SPAN></DIV></BODY></HTML></div>
+
+### Título
+window_F03F1C66_E41F_2DFA_41C1_9ED2CF7DB98A.title = Bote de basura
+window_F17F329C_E3F9_354F_41E1_A640B984E155.title = impresora
